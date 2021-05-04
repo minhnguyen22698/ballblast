@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>—Pngtree—set red game buttons with_5004166_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{652,0},{324,309}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{324,309}}</string>
+				<key>sourceSize</key>
+				<string>{324,309}</string>
+			</dict>
+
+			<key>—Pngtree—set red game buttons with_5004166_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,620},{325,309}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{325,309}}</string>
+				<key>sourceSize</key>
+				<string>{325,309}</string>
+			</dict>
+
+			<key>—Pngtree—set red game buttons with_5004166_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{326,0},{325,309}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{325,309}}</string>
+				<key>sourceSize</key>
+				<string>{325,309}</string>
+			</dict>
+
+			<key>—Pngtree—set red game buttons with_5004166_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{326,620},{324,309}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{324,309}}</string>
+				<key>sourceSize</key>
+				<string>{324,309}</string>
+			</dict>
+
+			<key>—Pngtree—set red game buttons with_5004166_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{325,309}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{325,309}}</string>
+				<key>sourceSize</key>
+				<string>{325,309}</string>
+			</dict>
+
+			<key>—Pngtree—set red game buttons with_5004166_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,310},{325,309}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{325,309}}</string>
+				<key>sourceSize</key>
+				<string>{325,309}</string>
+			</dict>
+
+			<key>—Pngtree—set red game buttons with_5004166_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{326,310},{324,309}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{324,309}}</string>
+				<key>sourceSize</key>
+				<string>{324,309}</string>
+			</dict>
+
+			<key>—Pngtree—set red game buttons with_5004166_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{651,310},{324,310}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{324,310}}</string>
+				<key>sourceSize</key>
+				<string>{324,310}</string>
+			</dict>
+
+			<key>—Pngtree—set red game buttons with_5004166_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{651,621},{324,310}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{324,310}}</string>
+				<key>sourceSize</key>
+				<string>{324,310}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{977,932}</string>
+			<key>textureFileName</key>
+			<string>btnlist.png</string>
+			</dict>
+		</dict>
+</plist>
